@@ -1,0 +1,11 @@
+{
+  "nodeModulesDir": "auto",
+  "imports": {
+    "langchain/": "npm:langchain@latest/",
+    "@langchain/": "npm:@langchain/",
+    "@langchain/deepseek": "npm:@langchain/deepseek@latest",
+    "@langchain/openai": "npm:@langchain/openai@latest",
+    "@langchain/core/": "npm:@langchain/core@latest/",
+    "dotenv": "npm:dotenv@latest"
+  }
+}
